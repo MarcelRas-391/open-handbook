@@ -26,7 +26,7 @@ From other network locations first connect to the stepstone `<vu net id>@ssh.dat
 ### eduVPN
 
 Install the [client](https://www.eduvpn.org/client-apps/).
-Start eduVPN and choose Institute Access to connect. You will need MFA to authenticate. Students can activate MFA at the servicedesk ( [kb-item 11809](https://services.vu.nl/kb_view.do?sysparm_article=KB0011809) )
+Start eduVPN and choose Institute Access to connect. You will need MFA to authenticate. Students can activate MFA at the servicedesk ( :lock:[kb-item 11809](https://services.vu.nl/kb_view.do?sysparm_article=KB0011809) )
 
 ### Data transfer
 
